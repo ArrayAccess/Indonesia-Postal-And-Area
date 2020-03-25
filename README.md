@@ -16,6 +16,7 @@ This repository contains **THOUSANDS** & Binary Data!
  - Provinces     : `34`
  - Countries     : `1` (Indonesia Only)
 
+
 ## STRUCTURES
 
 > Data Directory
@@ -67,6 +68,9 @@ data/
 ```
 
 > Json Areas
+
+Latitude & Longitude contains centroid of `MultiPolygon` take from geojson using
+`geophp`
 
 ```json
 {
@@ -136,7 +140,14 @@ Example :
 
 ## DATA SOURCE
 
-[Badan Pusat Statistik Indonesia (BPS)](https://bps.go.id/)
+- [Badan Pusat Statistik Indonesia (BPS)](https://bps.go.id/)
+
+
+## DATA PROCESSOR
+
+- [PHP 7.4](https://www.php.net/)
+- [SQLite](https://sqlite.org/index.html)
+- [GEOPhp](https://geophp.net/)
 
 
 ## NOTE
@@ -145,6 +156,7 @@ Example :
 - Some of GeoJson not available 
 - Database Files on all columns with `xxxx_geometry` has been set to null.
  Please insert manually from [data/geojson](data/geojson), Trees file name as code
+
 
 ## LICENSE
 
