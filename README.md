@@ -2,6 +2,10 @@
 
 This is collections of Indonesia area & postal codes.
 
+This repository contains **THOUSANDS** & Binary Data!
+
+**Before clone, make sure you know what you'll do.**
+
 
 ## COLLECTIONS
 
