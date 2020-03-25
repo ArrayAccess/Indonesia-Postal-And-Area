@@ -1,4 +1,4 @@
-# INDONESIA POSTAL CODE
+# INDONESIA POSTAL CODE & AREA
 
 This is collections of Indonesia area & postal codes.
 
