@@ -1,0 +1,18 @@
+{
+    "code": 65,
+    "parent": 62,
+    "name": "KALIMANTAN UTARA",
+    "latitude": "2.7260163427808",
+    "longitude": "116.2877362242",
+    "postal": [
+        70000,
+        77000
+    ],
+    "children": [
+        6501,
+        6502,
+        6503,
+        6504,
+        6571
+    ]
+}

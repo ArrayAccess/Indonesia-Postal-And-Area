@@ -1,0 +1,14 @@
+{
+    "code": 1309072,
+    "parent": 1309,
+    "name": "SIMPANG ALAHAN MATI",
+    "latitude": "-0.0093284239999469",
+    "longitude": "100.163668439",
+    "postal": [
+        26382
+    ],
+    "children": [
+        1309072001,
+        1309072002
+    ]
+}

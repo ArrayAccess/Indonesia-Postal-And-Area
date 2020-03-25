@@ -1,0 +1,17 @@
+{
+    "code": 9171024,
+    "parent": 9171,
+    "name": "KLAURUNG",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98435,
+        98417
+    ],
+    "children": [
+        9171024001,
+        9171024002,
+        9171024003,
+        9171024004
+    ]
+}

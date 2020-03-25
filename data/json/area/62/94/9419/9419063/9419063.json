@@ -1,0 +1,18 @@
+{
+    "code": 9419063,
+    "parent": 9419,
+    "name": "APAWER TENGAH",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        99385,
+        99374
+    ],
+    "children": [
+        9419063001,
+        9419063002,
+        9419063003,
+        9419063004,
+        9419063005
+    ]
+}

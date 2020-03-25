@@ -1,0 +1,17 @@
+{
+    "code": 9107118,
+    "parent": 9107,
+    "name": "BOTAIN",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98433
+    ],
+    "children": [
+        9107118001,
+        9107118002,
+        9107118003,
+        9107118004,
+        9107118005
+    ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.provinces</OriginalElement>
+  <nodes>
+    <node x="635.0" y="-13.0">6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.provinces</node>
+    <node x="-5.5" y="267.0">6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.sub_districts</node>
+    <node x="648.0" y="267.0">6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.cities</node>
+    <node x="327.0" y="9.0">6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.countries</node>
+    <node x="343.5" y="308.0">6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.translations</node>
+    <node x="347.0" y="194.0">6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.postal_codes</node>
+    <node x="-10.5" y="-13.0">6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.villages</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.villages" target="6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.sub_districts">
+      <point x="0.0" y="93.0" />
+      <point x="0.0" y="-93.0" />
+    </edge>
+    <edge source="6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.provinces" target="6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.countries">
+      <point x="-125.0" y="-0.0" />
+      <point x="113.0" y="-0.0" />
+    </edge>
+    <edge source="6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.sub_districts" target="6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.cities">
+      <point x="125.5" y="-0.0" />
+      <point x="-112.0" y="-0.0" />
+    </edge>
+    <edge source="6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.cities" target="6dccf031-0ea9-48c0-ade6-da86c701a212.TABLE:main.provinces">
+      <point x="0.0" y="-93.0" />
+      <point x="0.0" y="93.0" />
+    </edge>
+  </edges>
+  <settings layout="Directed Orthogonal" zoom="1.0" x="433.5" y="220.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+

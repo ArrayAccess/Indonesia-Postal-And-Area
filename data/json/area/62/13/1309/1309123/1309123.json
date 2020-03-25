@@ -1,0 +1,14 @@
+{
+    "code": 1309123,
+    "parent": 1309,
+    "name": "MAPAT TUNGGUL SELATAN",
+    "latitude": "0.31919189400004",
+    "longitude": "100.223741279",
+    "postal": [
+        26354
+    ],
+    "children": [
+        1309123001,
+        1309123002
+    ]
+}

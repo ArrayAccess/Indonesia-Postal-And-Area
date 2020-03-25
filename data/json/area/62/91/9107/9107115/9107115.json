@@ -1,0 +1,17 @@
+{
+    "code": 9107115,
+    "parent": 9107,
+    "name": "KLASAFET",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98442
+    ],
+    "children": [
+        9107115001,
+        9107115002,
+        9107115003,
+        9107115004,
+        9107115005
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "code": 9109111,
+    "parent": 9109,
+    "name": "SELEMKAI",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98362
+    ],
+    "children": [
+        9109111001,
+        9109111002,
+        9109111003,
+        9109111004,
+        9109111005
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "code": 19,
+    "parent": 62,
+    "name": "KEPULAUAN BANGKA BELITUNG",
+    "latitude": "-2.4593299657045",
+    "longitude": "106.97804147244",
+    "postal": [
+        30000,
+        33000
+    ],
+    "children": [
+        1901,
+        1902,
+        1903,
+        1904,
+        1905,
+        1906,
+        1971
+    ]
+}

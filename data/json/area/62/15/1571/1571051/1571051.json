@@ -1,0 +1,18 @@
+{
+    "code": 1571051,
+    "parent": 1571,
+    "name": "DANAU SIPIN",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        36121,
+        36129
+    ],
+    "children": [
+        1571051001,
+        1571051002,
+        1571051003,
+        1571051004,
+        1571051005
+    ]
+}

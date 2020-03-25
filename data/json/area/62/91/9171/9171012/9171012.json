@@ -1,0 +1,16 @@
+{
+    "code": 9171012,
+    "parent": 9171,
+    "name": "MALADUM MES",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98411
+    ],
+    "children": [
+        9171012001,
+        9171012002,
+        9171012003,
+        9171012004
+    ]
+}

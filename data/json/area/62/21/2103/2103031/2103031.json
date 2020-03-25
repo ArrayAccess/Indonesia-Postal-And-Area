@@ -1,0 +1,15 @@
+{
+    "code": 2103031,
+    "parent": 2103,
+    "name": "SUAK MIDAI",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        29785
+    ],
+    "children": [
+        2103031001,
+        2103031002,
+        2103031003
+    ]
+}

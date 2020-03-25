@@ -1,0 +1,15 @@
+{
+    "code": 9435041,
+    "parent": 9435,
+    "name": "TOMOSIGA",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98782
+    ],
+    "children": [
+        9435041001,
+        9435041002,
+        9435041003
+    ]
+}

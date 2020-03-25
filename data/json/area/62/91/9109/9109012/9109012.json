@@ -1,0 +1,16 @@
+{
+    "code": 9109012,
+    "parent": 9109,
+    "name": "ASES",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98364
+    ],
+    "children": [
+        9109012001,
+        9109012002,
+        9109012003,
+        9109012004
+    ]
+}

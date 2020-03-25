@@ -1,0 +1,16 @@
+{
+    "code": 9419041,
+    "parent": 9419,
+    "name": "ISMARI",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        99373
+    ],
+    "children": [
+        9419041001,
+        9419041002,
+        9419041003,
+        9419041004
+    ]
+}

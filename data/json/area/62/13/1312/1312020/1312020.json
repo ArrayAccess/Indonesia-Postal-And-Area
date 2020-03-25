@@ -1,0 +1,14 @@
+{
+    "code": 1312020,
+    "parent": 1312,
+    "name": "RANAH BATAHAN",
+    "latitude": "0.440638009",
+    "longitude": "99.467295909494",
+    "postal": [
+        26366
+    ],
+    "children": [
+        1312020001,
+        1312020002
+    ]
+}

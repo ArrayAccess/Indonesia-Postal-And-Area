@@ -1,0 +1,14 @@
+{
+    "code": 3101,
+    "parent": 31,
+    "name": "KEPULAUAN SERIBU",
+    "latitude": "-5.6122405455",
+    "longitude": "106.615505518",
+    "postal": [
+        14500
+    ],
+    "children": [
+        3101010,
+        3101020
+    ]
+}

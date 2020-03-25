@@ -1,0 +1,18 @@
+{
+    "code": 1671022,
+    "parent": 1671,
+    "name": "JAKABARING",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        30251,
+        30257
+    ],
+    "children": [
+        1671022001,
+        1671022002,
+        1671022003,
+        1671022004,
+        1671022005
+    ]
+}

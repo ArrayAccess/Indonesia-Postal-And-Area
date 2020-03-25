@@ -1,0 +1,18 @@
+{
+    "code": 7410032,
+    "parent": 7410,
+    "name": "LASOLO KEPULAUAN",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        93341
+    ],
+    "children": [
+        7410032001,
+        7410032002,
+        7410032003,
+        7410032004,
+        7410032005,
+        7410032006
+    ]
+}

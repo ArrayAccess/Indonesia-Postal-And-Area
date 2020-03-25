@@ -1,0 +1,16 @@
+{
+    "code": 9402185,
+    "parent": 9402,
+    "name": "WAME",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        99536
+    ],
+    "children": [
+        9402185001,
+        9402185002,
+        9402185003,
+        9402185004
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "code": 1905051,
+    "parent": 1905,
+    "name": "KEPULAUAN PONGOK",
+    "latitude": "-2.8659184214948",
+    "longitude": "107.05379817581",
+    "postal": [
+        33791
+    ],
+    "children": [
+        1905051001,
+        1905051002
+    ]
+}

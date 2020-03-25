@@ -1,0 +1,16 @@
+{
+    "code": 7371081,
+    "parent": 7371,
+    "name": "KEPULAUAN SANGKARRANG",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        90166,
+        90168
+    ],
+    "children": [
+        7371081001,
+        7371081002,
+        7371081003
+    ]
+}

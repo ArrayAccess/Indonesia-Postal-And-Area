@@ -1,0 +1,17 @@
+{
+    "code": 3578270,
+    "parent": 3578,
+    "name": "ASEMROWO",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        60182,
+        60183,
+        60184
+    ],
+    "children": [
+        3578270003,
+        3578270006,
+        3578270007
+    ]
+}

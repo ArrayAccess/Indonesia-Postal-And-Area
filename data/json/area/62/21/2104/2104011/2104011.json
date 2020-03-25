@@ -1,0 +1,15 @@
+{
+    "code": 2104011,
+    "parent": 2104,
+    "name": "KEPULAUAN POSEK",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        29876
+    ],
+    "children": [
+        2104011001,
+        2104011002,
+        2104011003
+    ]
+}

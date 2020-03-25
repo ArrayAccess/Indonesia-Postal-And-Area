@@ -1,0 +1,16 @@
+{
+    "code": 2103045,
+    "parent": 2103,
+    "name": "PULAU TIGA BARAT",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        29786
+    ],
+    "children": [
+        2103045001,
+        2103045002,
+        2103045003,
+        2103045004
+    ]
+}

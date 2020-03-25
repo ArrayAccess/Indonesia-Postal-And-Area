@@ -1,0 +1,17 @@
+{
+    "code": 9171026,
+    "parent": 9171,
+    "name": "SORONG KOTA",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98435,
+        98414
+    ],
+    "children": [
+        9171026001,
+        9171026002,
+        9171026003,
+        9171026004
+    ]
+}

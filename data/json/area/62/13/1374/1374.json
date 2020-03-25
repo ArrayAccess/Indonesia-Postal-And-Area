@@ -1,0 +1,14 @@
+{
+    "code": 1374,
+    "parent": 13,
+    "name": "PADANG PANJANG",
+    "latitude": "-0.46953105599977",
+    "longitude": "100.40133743097",
+    "postal": [
+        27100
+    ],
+    "children": [
+        1374010,
+        1374020
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "code": 7604023,
+    "parent": 7604,
+    "name": "KEPULAUAN BALA BALAKANG",
+    "latitude": "-2.0834263035001",
+    "longitude": "117.34896688151",
+    "postal": [
+        91554,
+        91512
+    ],
+    "children": [
+        7604023001,
+        7604023002
+    ]
+}

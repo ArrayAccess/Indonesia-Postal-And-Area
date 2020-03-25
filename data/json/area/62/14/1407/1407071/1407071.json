@@ -1,0 +1,16 @@
+{
+    "code": 1407071,
+    "parent": 1407,
+    "name": "PAGARAN TAPAH DARUSSALAM",
+    "latitude": "0.7569692225",
+    "longitude": "100.5987782205",
+    "postal": [
+        28568,
+        28550
+    ],
+    "children": [
+        1407071001,
+        1407071002,
+        1407071005
+    ]
+}

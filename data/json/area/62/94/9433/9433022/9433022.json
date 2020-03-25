@@ -1,0 +1,17 @@
+{
+    "code": 9433022,
+    "parent": 9433,
+    "name": "GOME UTARA",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98964
+    ],
+    "children": [
+        9433022001,
+        9433022002,
+        9433022003,
+        9433022004,
+        9433022005
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "code": 1612,
+    "parent": 16,
+    "name": "PENUKAL ABAB LEMATANG ILIR",
+    "latitude": "-3.2084023519999",
+    "longitude": "103.9321182775",
+    "postal": [
+        31200,
+        31300
+    ],
+    "children": [
+        1612010,
+        1612020,
+        1612030,
+        1612040,
+        1612050
+    ]
+}

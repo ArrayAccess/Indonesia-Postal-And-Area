@@ -1,0 +1,13 @@
+{
+    "code": 1312010,
+    "parent": 1312,
+    "name": "SUNGAI BEREMAS",
+    "latitude": "0.25315645800006",
+    "longitude": "99.323396435499",
+    "postal": [
+        26573
+    ],
+    "children": [
+        1312010001
+    ]
+}

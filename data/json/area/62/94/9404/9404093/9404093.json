@@ -1,0 +1,17 @@
+{
+    "code": 9404093,
+    "parent": 9404,
+    "name": "KEPULAUAN MOORA",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        98864
+    ],
+    "children": [
+        9404093001,
+        9404093002,
+        9404093003,
+        9404093004,
+        9404093005
+    ]
+}

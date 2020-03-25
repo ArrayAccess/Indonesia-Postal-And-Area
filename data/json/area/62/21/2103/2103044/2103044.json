@@ -1,0 +1,17 @@
+{
+    "code": 2103044,
+    "parent": 2103,
+    "name": "BUNGURAN BATUBI",
+    "latitude": null,
+    "longitude": null,
+    "postal": [
+        29787
+    ],
+    "children": [
+        2103044001,
+        2103044002,
+        2103044003,
+        2103044004,
+        2103044005
+    ]
+}
