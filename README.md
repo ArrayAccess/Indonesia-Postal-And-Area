@@ -6,6 +6,10 @@ This repository contains **THOUSANDS** & Binary Data!
 
 **Before clone, make sure you know what you'll do.**
 
+# AWESOME OF YOU
+
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/arrayiterator?label=Sponsor&logo=GitHub)](https://github.com/sponsors/arrayiterator)
+#
 
 ## COLLECTIONS
 
