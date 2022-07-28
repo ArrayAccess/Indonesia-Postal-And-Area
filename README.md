@@ -6,10 +6,10 @@ This repository contains **THOUSANDS** & Binary Data!
 
 **Before clone, make sure you know what you'll do.**
 
-# AWESOME OF YOU
+## AWESOME OF YOU
 
 [![GitHub Sponsor](https://img.shields.io/github/sponsors/arrayiterator?label=Sponsor&logo=GitHub)](https://github.com/sponsors/arrayiterator)
-#
+
 
 ## COLLECTIONS
 
@@ -160,6 +160,10 @@ Example :
 - Some of GeoJson not available 
 - Database Files on all columns with `xxxx_geometry` has been set to null.
  Please insert manually from [data/geojson](data/geojson), Trees file name as code
+
+## DISCUSSION
+
+- Filtering Kemendagri Data Issues (Indonesia Only) [Join The Discussions](https://github.com/ArrayAccess/Indonesia-Postal-And-Area/issues/2)
 
 
 ## LICENSE
