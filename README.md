@@ -160,7 +160,8 @@ Example :
 - Some of GeoJson not available 
 - Database Files on all columns with `xxxx_geometry` has been set to null.
  Please insert manually from [data/geojson](data/geojson), Trees file name as code
-
+- Additional Notes: BPS still 34 Provinces until the end of 2023 (we can't update the data)
+ 
 ## DISCUSSION
 
 - Filtering Kemendagri Data Issues (Indonesia Only) [Join The Discussions](https://github.com/ArrayAccess/Indonesia-Postal-And-Area/issues/2)
