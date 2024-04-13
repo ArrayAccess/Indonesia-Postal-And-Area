@@ -4,6 +4,29 @@ This is collections of Indonesia area & postal codes.
 
 This repository contains **THOUSANDS** & Binary Data!
 
+# Note For You
+
+Due this repository & another opensources are not profitable to us.
+We will shutdown then delete our codes & data.
+
+Because the open source project just profitable to another.
+
+Very thanks to many peoples that contribute the codes to our projects.
+
+But, doing the un-usefullness to our better life. We make a decision to delete our previous & current opensources projects.
+
+Our team contributes, distribute and provide many things, but we just receive Zero & Never getting benefit from our development process, and we feel very tired that provide the free codes to many commercial companies.
+
+Thanks You
+
+# Note For Commercial Company
+
+Please be kind & be respectful to the opensources projects.
+
+You have commercial & profitable company that you've been built from the free resource & opensource.
+So, contribute to their life basis even only 1 cent.
+
+
 **Before clone, make sure you know what you'll do.**
 
 ## AWESOME OF YOU
